@@ -89,6 +89,19 @@ public class Coin
     {
         this.coinId = coinId;
     }
+
+    @Override
+    public String toString()
+    {
+        return "Coin{" +
+            "fp=" + fp +
+            ", count=" + count +
+            ", value=" + value +
+            ", name='" + name + '\'' +
+            ", namePlural='" + namePlural + '\'' +
+            ", coinId=" + coinId +
+            '}';
+    }
 }
 
 
