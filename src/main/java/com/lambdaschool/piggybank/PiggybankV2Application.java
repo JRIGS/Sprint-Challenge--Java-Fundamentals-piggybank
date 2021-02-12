@@ -1,15 +1,15 @@
-package com.lambdaschool.piggybanksprint;
+package com.lambdaschool.piggybank;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PiggybanksprintApplication
+public class PiggybankV2Application
 {
 
     public static void main(String[] args)
     {
-        SpringApplication.run(PiggybanksprintApplication.class,
+        SpringApplication.run(PiggybankV2Application.class,
             args);
     }
 

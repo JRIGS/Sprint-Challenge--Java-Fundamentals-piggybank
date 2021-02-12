@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.lambdaschool</groupId>
-    <artifactId>piggybanksprint</artifactId>
+    <artifactId>piggybank</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>piggybanksprint</name>
+    <name>piggybank v2</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
